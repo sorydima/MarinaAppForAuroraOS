@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.domestic.marina
+Exec=/usr/bin/com.domestic.marina
+Name=Marina
+Name[ru]=Марина
+
+[X-Application]
+Permissions=Audio;Camera;Documents;Downloads;Internet;Location;MediaIndexing;Microphone;Music;NFC;Pictures;PublicDir;PushNotifications;RemovableMedia;ScreenCapture;Videos;WebView
+OrganizationName=com.domestic
+ApplicationName=marina
